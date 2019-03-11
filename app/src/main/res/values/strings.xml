@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginJson</string>
+    <string name="login_form">Login Form</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up...</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="re_enter_password">Re enter password</string>
+    <string name="sign_up2">Sign up</string>
+    <string name="username">Username..</string>
+    <string name="mobile_no">Mobile no...</string>
+</resources>
